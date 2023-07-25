@@ -20,4 +20,4 @@ Contributions to this module are welcome. If you find any issues or have ideas f
 
 ## License
 
-This module is released under the [MIT License](LICENSE) non-comercial use only.
+This module is released under the MIT License.
